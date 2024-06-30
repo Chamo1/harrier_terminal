@@ -433,12 +433,12 @@ system = {
         } );
     },
 
-   // history() {
-   //     return new Promise( ( resolve ) => {
-  //          const messageList = history_.map( ( line, i ) => `[${ i }] ${ line }` ); // eslint-disable-line no-undef
-   //         resolve( messageList );
-  //      } );
-  //  },
+    history() {
+        return new Promise( ( resolve ) => {
+            const messageList = history_.map( ( line, i ) => `[${ i }] ${ line }` ); // eslint-disable-line no-undef
+            resolve( messageList );
+        } );
+    },
 
     mail() {
         return new Promise( ( resolve, reject ) => {
@@ -454,8 +454,9 @@ system = {
 
     read( args ) {
         return new Promise( ( resolve, reject ) => {
+            const messageList = mailList.filter( (mail) => mail.to.includes( userDatabase.userId ) );
             const mailIndex = Number( args[ 0 ] );
-            const mailAtIndex = mailList[ mailIndex ];
+            const mailAtIndex = messageList[ mailIndex ];
             if ( !mailAtIndex || !mailAtIndex.to.includes( userDatabase.userId ) ) {
                 reject( new InvalidMessageKeyError() );
                 return;
