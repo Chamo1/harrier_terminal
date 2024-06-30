@@ -7,13 +7,13 @@
     },
     {
         "from": "Software",
-        "to": ["8A73B5", "b"],
+        "to": ["8A73B5", "admin"],
         "title": "undefined",
         "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
     },
     {
         "from": "Josephus A. Miller",
-        "to": ["8A73B5", "dan"],
+        "to": ["admin", "dan"],
         "title": "Contrato n22",
         "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
     },
