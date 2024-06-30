@@ -2,7 +2,7 @@
     "year": "1991",
     "serverAddress": "FBILocalHost",
     "serverName": "FBI Intranet",
-    "iconName": "FBI _CLEAN White.png",
+    "iconName": "FBI-Clean-White.png",
     "terminalID": "LH0b11001011111",
     "defaultUser": {
         "userId": "user",
