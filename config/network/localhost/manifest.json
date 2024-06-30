@@ -1,6 +1,6 @@
 {
     "year": "1991",
-    "serverAddress": "FBILocalHost",
+    "serverAddress": "localhost",
     "serverName": "FBI Intranet",
     "iconName": "FBI-Clean-White.png",
     "terminalID": "LH0b11001011111",
