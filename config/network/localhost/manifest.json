@@ -1,8 +1,8 @@
 {
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverAddress": "FBILocalHost",
+    "serverName": "FBI Intranet",
     "iconName": "FBI _CLEAN White.webp",
-    "terminalID": "Y56",
+    "terminalID": "LH0b11001011111",
     "defaultUser": {
         "userId": "user",
         "password": "",
