@@ -1,7 +1,7 @@
 {
     "serverAddress": "FBILocalHost",
     "serverName": "FBI Intranet",
-    "iconName": "FBI _CLEAN White.webp",
+    "iconName": "FBI _CLEAN White.png",
     "terminalID": "LH0b11001011111",
     "defaultUser": {
         "userId": "user",
