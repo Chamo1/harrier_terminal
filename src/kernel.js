@@ -433,12 +433,12 @@ system = {
         } );
     },
 
-    history() {
-        return new Promise( ( resolve ) => {
-            const messageList = history_.map( ( line, i ) => `[${ i }] ${ line }` ); // eslint-disable-line no-undef
-            resolve( messageList );
-        } );
-    },
+   // history() {
+   //     return new Promise( ( resolve ) => {
+  //          const messageList = history_.map( ( line, i ) => `[${ i }] ${ line }` ); // eslint-disable-line no-undef
+   //         resolve( messageList );
+  //      } );
+  //  },
 
     mail() {
         return new Promise( ( resolve, reject ) => {
