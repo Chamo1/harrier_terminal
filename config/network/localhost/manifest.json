@@ -3,11 +3,11 @@
     "serverAddress": "localhost",
     "serverName": "FBI Intranet",
     "iconName": "FBI-Clean-White.png",
-    "terminalID": "LH0b11001011111",
+    "terminalID": "LH0b110010",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "user"
+        "userName": "anonymous_user"
     },
     "initialHistory": {
         "user": [
