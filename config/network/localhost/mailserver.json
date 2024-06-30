@@ -1,7 +1,7 @@
 [
     {
         "from": "Traveller",
-        "to": ["8A73B5", "n"],
+        "to": ["8A73B5", "dan"],
         "title": "Do not Open",
         "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
@@ -13,7 +13,7 @@
     },
     {
         "from": "Josephus A. Miller",
-        "to": ["8A73B5", "n"],
+        "to": ["8A73B5", "dan"],
         "title": "Contrato n22",
         "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
     },
