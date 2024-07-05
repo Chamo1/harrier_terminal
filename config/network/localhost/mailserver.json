@@ -6,10 +6,10 @@
         "body": "Greetings Supervisory Agents Harlow & Wilink:    You have been assigned to Case #94188—a triple homicide on federal lands maintained by The Department of Energy (DOE) outside the Nez Perce-Clearwater National Forest. The case falls fully within our jurisdiction and a joint-taskforce between the Bureau and the Idaho State Police (ISP) has been formed, which your team will be the leads of. The DOE has also offered resources upon request to help build a potential profile of the perpertrator(s) of the crime.    The Administrative team should already have begun the process of organizing travel for each of you.    The ISP will be briefing you on the details they have gathered thus far on the case and introduce you to your ISP and DOE counterparts at 8:00 a.m. May 8th at their local office (see travel itinerary for address). Supervisory Agent Harlow you will assume the role of lead agent on the case.    Please make sure to avoid any unecessary media attention and the leaking of any case materials.    Best,    Special Agent in Charge    Utah Field Office    Rita J. Lengsworth"
     },
     {
-        "from": "Software",
+        "from": "admin@fbi.gov",
         "to": ["8A73B5", "admin"],
-        "title": "undefined",
-        "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
+        "title": "Welcome: Temporary Intranet Access",
+        "body": "Hello Detective Powell:        You have been granted limited and temporary access to the FBI Intranet for the purposes of effecitvely and efficiently coordinating with members of the joint-taskforce. If you encounter any technical issues or have questions on the security policies associated with the intranet, please discuss with any of your FBI counterparts on the taskforce."
     },
     {
         "from": "Josephus A. Miller",
