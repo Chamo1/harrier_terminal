@@ -7,9 +7,9 @@
     },
     {
         "from": "admin@fbi.gov",
-        "to": ["spowell"],
+        "to": ["spowell", "amorris"],
         "title": "Welcome: Temporary Intranet Access",
-        "body": "Hello Detective Powell:        You have been granted limited and temporary access to the FBI Intranet for the purposes of effecitvely and efficiently coordinating with members of the joint-taskforce. If you encounter any technical issues or have questions on the security policies associated with the intranet, please discuss with any of your FBI counterparts on the taskforce."
+        "body": "Hello:        You have been granted limited and temporary access to the FBI Intranet for the purposes of effecitvely and efficiently coordinating with members of the joint-taskforce. If you encounter any technical issues or have questions on the security policies associated with the intranet, please discuss with any of your FBI counterparts on the taskforce."
     },
     {
         "from": "Josephus A. Miller",
