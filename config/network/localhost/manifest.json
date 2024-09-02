@@ -1,9 +1,9 @@
 {
-    "month": "May",
-    "year": "1991",
+    "month": "December",
+    "year": "1998",
     "serverAddress": "localhost",
-    "serverName": "FBI Intranet",
-    "iconName": "FBI-Clean-Orange-Pixel.png",
+    "serverName": "SchreckNet Intranet",
+    "iconName": "ShrekNet2.png",
     "terminalID": "LH0b110010",
     "defaultUser": {
         "userId": "user",
