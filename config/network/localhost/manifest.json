@@ -1,10 +1,11 @@
 {
-    "month": "December",
-    "year": "1998",
+    "day": "I",
+    "month": "I",
+    "year": "1105",
     "serverAddress": "localhost",
-    "serverName": "SchreckNet Intranet",
-    "iconName": "ShrekNet2.png",
-    "terminalID": "LH0b110010",
+    "serverName": "X-Mail Direct Connect",
+    "iconName": "XMail.png",
+    "terminalID": "HT0b110010",
     "defaultUser": {
         "userId": "user",
         "password": "",
