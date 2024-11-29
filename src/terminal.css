@@ -39,7 +39,7 @@
 
 }
 ::selection {
-  background: #FF5E99;
+  background: #ffdc5e;
 }
 html, body {
   width: 100%;
@@ -49,7 +49,7 @@ html, body {
 body {
   font-size: 10pt;
   font-family: ToshibaSat_9x8, monospace;
-  color: OldLace;
+  color: FFBF00;
   background-color: black;
 }
 #container {
@@ -84,7 +84,7 @@ body {
 }
 .prompt {
   white-space: nowrap;
-  color: #41ff00;
+  color: #FFCC00;
   margin-right: 7px;
   display: -webkit-box;
   -webkit-box-pack: center;
