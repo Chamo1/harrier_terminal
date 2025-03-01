@@ -37,7 +37,7 @@
     },
     {
         "from": "a2213123442387@ISN.TR",
-        "to": ["fmaarad", "selric"],
+        "to": ["fmaarad", "selric", "Nyo"],
         "title": "You are being controlled",
         "body": "You must wake up, you are in HIS dream! The Emperor is his puppet and the puppeteer is leading us towards a long night only illuminated by the glow of nuclear warheads.    The pup in puppeteer reveals the blatant truth, the Vargyr are to blame. That HE is a dog! RISE UP AND KILL THE DOGS!!"
     },
@@ -73,7 +73,7 @@
     },
     {
         "from": "redfelines@GR.TR",
-        "to": ["Nyo", "fmaarad"],
+        "to": ["Nyo", "fmaarad", "selric"],
         "title": "Intergalactic. Red. Felines.",
         "body": "Looking to enjoy a crimson cat by your side day'n'night?! Then look no further than Goria's greatest adult emporium's offering! Pass on by and ask for Felerk at the downport to be taken to the secure and private emporium of red licorice flavored pleasure!"
     },
@@ -142,6 +142,12 @@
         "to": ["Nyo"],
         "title": "PARTIALLY RECOVERED X-MAIL",
         "body": "This is a formal notice to inform you that an incomplete X-Mail transmission was sent to your address. The origin address was unable to be collected or traced. The following is the data that was able to be recovered:    '...SI[?]AL FALLS AND RISES. I CAN [?] AND [?] N'Y[?] [?]...YOU ARE TO [?]'"
+    },
+    {
+        "from": "technicaltek@ISN.TR",
+        "to": ["selric", "Nyo"],
+        "title": "Technically, You Want to Pay Money",
+        "body": "TechnicalTek leads the way in technically knowing everything technical about you. And centrl your internal tech is the urge to forward Cr100,000 to TechnicalTek's legal fund. Forward payment to 34-33AZSDF-ZDCVV."
     },
     {
         "from": "Josephus A. Miller",
