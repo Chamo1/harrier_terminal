@@ -78,10 +78,16 @@
         "body": "Looking to enjoy a crimson cat by your side day'n'night?! Then look no further than Goria's greatest adult emporium's offering! Pass on by and ask for Felerk at the downport to be taken to the secure and private emporium of red licorice flavored pleasure!"
     },
     {
-        "from": "Josephus A. Miller",
-        "to": ["admin", "dan"],
-        "title": "Contrato n22",
-        "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
+        "from": "vsd3425634@ISN.TR",
+        "to": ["echochamber"],
+        "title": "Pull the Trigger",
+        "body": "You're a deranged freak and murderer. Please, do a service to all boxers in the Reach and finally just fucking end it all."
+    },
+    {
+        "from": "bjonetaa@CO.TR",
+        "to": ["echochamber"],
+        "title": "Reminder",
+        "body": "Hello 'Echo':    This is Baroness Jonetta Antony's steward and am just contacting you as part of our annual reminder system:    'You smell of cheap beer, depression, and a lust for blood. A foul creature of contempt is all you are. If you ever set foot on Cordan, you will see the full extent of the punishment you are due for your part played in my false imprisonment. Fuck you.'    Please do not attempt to go to another X-Mail address or service, I will track you as I have done before. Anywho, see you at next year's reminder email! ^_^"
     },
     {
         "from": "Josephus A. Miller",
@@ -89,7 +95,19 @@
         "title": "Contrato n22",
         "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
     },
-    {
+        {
+        "from": "Josephus A. Miller",
+        "to": ["admin", "dan"],
+        "title": "Contrato n22",
+        "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
+    },
+        {
+        "from": "Josephus A. Miller",
+        "to": ["admin", "dan"],
+        "title": "Contrato n22",
+        "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
+    },
+        {
         "from": "Josephus A. Miller",
         "to": ["admin", "dan"],
         "title": "Contrato n22",
