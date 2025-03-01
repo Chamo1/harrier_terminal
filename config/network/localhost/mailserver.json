@@ -72,6 +72,18 @@
         "body": "You have been identified as a star for which we can build a dream on. For untold wealth, power, and a dream to dedicate yourself to, please direct yourself to the Floating Palace of Drinax at your earliest conveniance. Details to be discussed.    Disregard and mark as spam if this X-Mail should never of reached you.    We await."
     },
     {
+        "from": "redfelines@GR.TR",
+        "to": ["Nyo", "fmaarad"],
+        "title": "Intergalactic. Red. Felines.",
+        "body": "Looking to enjoy a crimson cat by your side day'n'night?! Then look no further than Goria's greatest adult emporium's offering! Pass on by and ask for Felerk at the downport to be taken to the secure and private emporium of red licorice flavored pleasure!"
+    },
+    {
+        "from": "Josephus A. Miller",
+        "to": ["admin", "dan"],
+        "title": "Contrato n22",
+        "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
+    },
+    {
         "from": "Josephus A. Miller",
         "to": ["admin", "dan"],
         "title": "Contrato n22",
