@@ -90,24 +90,48 @@
         "body": "Hello 'Echo':    This is Baroness Jonetta Antony's steward and am just contacting you as part of our annual reminder system:    'You smell of cheap beer, depression, and a lust for blood. A foul creature of contempt is all you are. If you ever set foot on Cordan, you will see the full extent of the punishment you are due for your part played in my false imprisonment. Fuck you.'    Please do not attempt to go to another X-Mail address or service, I will track you as I have done before. Anywho, see you at next year's reminder email! ^_^"
     },
     {
+        "from": "43h433@ISN.TR",
+        "to": ["echochamber"],
+        "title": "Marco Marco",
+        "body": "Hey Echo:    Hope you are doing well! I was diving into the memories of this fellah, and one of them was actually one of your fights! It was odd seeing how much his faulty memories changed how you looked, they were not kind to your nose or hair color.    Write back when you have a chance! Love to finally meet this new partner of yours eventually, or just see ya again. Hope the Gym is holding up well.    Your Friend,    PB"
+    },
+    {
+        "from": "HungLow@EX.TR",
+        "to": ["echochamber", "selric"],
+        "title": "DANG! It's big you know!!!111",
+        "body": "PENIS ENLARGEMENT! Watch the girls come running! Reply today! HungLow@EX.TR"
+    },
+    {
+        "from": "vewart@CIREC.TR",
+        "to": ["echochamber"],
+        "title": "Lost Thermos: Come to the Front Desk",
+        "body": "Hi Love:    Whenever and wherever this finds you, just want you to know I hope you're doing good! Even if you forgot your thermos, again. I think I may have to implement my industrial glue plan to stop you forgetting it.    Write back when you get a chance!"
+    },
+    {
         "from": "Josephus A. Miller",
         "to": ["admin", "dan"],
         "title": "Contrato n22",
         "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
     },
-        {
+    {
         "from": "Josephus A. Miller",
         "to": ["admin", "dan"],
         "title": "Contrato n22",
         "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
     },
-        {
+    {
         "from": "Josephus A. Miller",
         "to": ["admin", "dan"],
         "title": "Contrato n22",
         "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
     },
-        {
+    {
+        "from": "Josephus A. Miller",
+        "to": ["admin", "dan"],
+        "title": "Contrato n22",
+        "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
+    },
+    {
         "from": "Josephus A. Miller",
         "to": ["admin", "dan"],
         "title": "Contrato n22",
