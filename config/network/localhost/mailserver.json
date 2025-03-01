@@ -109,7 +109,7 @@
     },
     {
         "from": "catscratch@ISN.TR",
-        "to": ["selric"],
+        "to": ["selric", "Nyo"],
         "title": "K1LLER TUNES 4 K1LLER PPPL",
         "body": "YO ^__^    WANT TO KILL YOUR EARS TO THE MOST AWESOMESAUCE SOUNDS?!    WELL LOOK NO FURTHER QT 3.14 (ʘ‿ʘ)    LISTEN TO CAT SCRATCH TODAY , DOWNLOAD OUR DEMO AND LISTEN TO THE TUNES YOUR CAT'S MOTHER AIN'T TELLIN' YOU 'BOUT    （ΦωΦ） (´• ω •`) ♡"
     },
@@ -120,10 +120,10 @@
         "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
     },
     {
-        "from": "Josephus A. Miller",
-        "to": ["admin", "dan"],
-        "title": "Contrato n22",
-        "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
+        "from": "llaine@GEDECO.TR",
+        "to": ["selric"],
+        "title": "Class Action Lawsuit Notification",
+        "body": "Hello:    This is your formal notice from a corporate attorney for THE GeDeCo informing you that a formal class action lawsuit is being prepared against you if you fail to show your face sometime this year and pay for Ms. Laine's drinks and puke at least in four alleyways together.    Best,    Louella Laine    Assistant Chief Legal Officer    GeDeCo | Trojan Reach Operations"
     },
     {
         "from": "Josephus A. Miller",
